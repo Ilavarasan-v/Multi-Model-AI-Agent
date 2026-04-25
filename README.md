@@ -189,10 +189,8 @@ MIT License — free to use, modify, and distribute.
 
 > Built with  using Groq + LLaMA 4 Scout + Streamlit
 
-## 🙋‍♂️ Sample output
 
-<img width="1719" height="880" alt="Screenshot 2026-04-22 105901" src="https://github.com/user-attachments/assets/b2c8cad3-bd59-4e08-8030-6b70314861fc" />
-<img width="1924" height="1084" alt="Screenshot 2026-04-22 111457" src="https://github.com/user-attachments/assets/dea1528b-d242-468b-a99f-b97a70bbd0e8" />
-<img width="1924" height="1084" alt="Screenshot 2026-04-22 113132" src="https://github.com/user-attachments/assets/5332219b-bdc6-43aa-88ef-6b4b3013099f" />
+
+
 
 
